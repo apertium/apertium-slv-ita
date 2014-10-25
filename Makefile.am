@@ -11,11 +11,12 @@ PREFIX2=$(LANG2)-$(LANG1)
 BASENAME=apertium-slv-ita
 
 TARGETS_COMMON = \
-	$(PREFIX1).rlx.bin \
 	$(PREFIX1).autobil.bin \
 	$(PREFIX1).autogen.bin \
 	$(PREFIX1).automorf.bin \
 	$(PREFIX1).autopgen.bin \
+	$(PREFIX1).prob \
+	$(PREFIX1).rlx.bin \
 	$(PREFIX1).t1x.bin \
 	$(PREFIX1).t2x.bin \
 	$(PREFIX1).t3x.bin \
@@ -23,6 +24,7 @@ TARGETS_COMMON = \
 	$(PREFIX2).autogen.bin \
 	$(PREFIX2).automorf.bin \
 	$(PREFIX2).autopgen.bin \
+	$(PREFIX2).prob \
 	$(PREFIX2).t1x.bin \
 	$(PREFIX2).t2x.bin \
 	$(PREFIX2).t3x.bin
@@ -154,10 +156,10 @@ clean-local:
 ###############################################################################
 
 test: all
-	echo "Såg ho ikkje orda?" | apertium -d . slv-ita | tee .test-mt
-	@echo "Så hun ikke ordene?" > .test-ref
+	echo "živeti" | apertium -d . slv-ita | tee .test-mt
+	@echo "vivere" > .test-ref
 	@diff .test-ref .test-mt
-	echo "Jeg har åler i min luftputebåt" | apertium -d . ita-slv | tee .test-mt
-	@echo "Eg har ålar i luftputebåten min" > .test-ref
+	echo "frutta" | apertium -d . ita-slv | tee .test-mt
+	@echo "sadje" > .test-ref
 	@diff .test-ref .test-mt
 	@rm .test-ref .test-mt
