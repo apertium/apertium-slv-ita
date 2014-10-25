@@ -1,0 +1,29 @@
+* text=auto !eol
+/AUTHORS -text
+/ChangeLog -text
+/Makefile.am -text
+/NEWS -text
+/README -text
+/apertium-sl-it.it-sl.t1x -text
+/apertium-sl-it.it-sl.t2x -text
+/apertium-sl-it.it-sl.t3x -text
+/apertium-sl-it.it.acx -text
+/apertium-sl-it.it.dix -text
+/apertium-sl-it.post-it.dix -text
+/apertium-sl-it.post-sl.dix -text
+/apertium-sl-it.sl-it.dix -text
+/apertium-sl-it.sl-it.t1x -text
+/apertium-sl-it.sl-it.t2x -text
+/apertium-sl-it.sl-it.t3x -text
+/apertium-sl-it.sl.acx -text
+/apertium-sl-it.sl.dix -text
+/autogen.sh -text
+/configure.ac -text
+dev/story.it.txt -text
+/it-sl.prob -text svneol=unset#unset
+/lexchoicebil.xsl -text
+/modes.xml -text
+/pending-tests.sh -text
+/regression-tests.sh -text
+/sl-it.prob -text
+/wiki-tests.sh -text
