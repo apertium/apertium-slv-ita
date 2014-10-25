@@ -1,131 +1,163 @@
+###############################################################################
+## Makefile for Slovenian--Italian
+###############################################################################
+
 VERSION=0.0.2
-LANG1=sl
-LANG2=it
+LANG1=slv
+LANG2=ita
 PREFIX1=$(LANG1)-$(LANG2)
 PREFIX2=$(LANG2)-$(LANG1)
 
-BASENAME=apertium-sl-it
+BASENAME=apertium-slv-ita
 
-TARGETS_COMMON = $(PREFIX1).automorf.bin $(PREFIX2).automorf.bin \
-	$(PREFIX1).autopgen.bin $(PREFIX2).autopgen.bin \
-	$(PREFIX1).autobil.bin $(PREFIX2).autobil.bin \
-	$(PREFIX1).autogen.bin $(PREFIX2).autogen.bin \
-	$(PREFIX1).t1x.bin $(PREFIX2).t1x.bin \
-	$(PREFIX1).t2x.bin $(PREFIX2).t2x.bin \
-	$(PREFIX1).t3x.bin $(PREFIX2).t3x.bin \
-	modes
+TARGETS_COMMON = \
+	$(PREFIX1).rlx.bin \
+	$(PREFIX1).autobil.bin \
+	$(PREFIX1).autogen.bin \
+	$(PREFIX1).automorf.bin \
+	$(PREFIX1).autopgen.bin \
+	$(PREFIX1).t1x.bin \
+	$(PREFIX1).t2x.bin \
+	$(PREFIX1).t3x.bin \
+	$(PREFIX2).autobil.bin \
+	$(PREFIX2).autogen.bin \
+	$(PREFIX2).automorf.bin \
+	$(PREFIX2).autopgen.bin \
+	$(PREFIX2).t1x.bin \
+	$(PREFIX2).t2x.bin \
+	$(PREFIX2).t3x.bin
 
-TARGETS = $(TARGETS_COMMON)
+# This include defines goals for install-modes, .deps/.d and .mode files:
+@ap_include@
 
-$(PREFIX1).automorf.bin: $(BASENAME).$(LANG1).dix
-	apertium-validate-dictionary $(BASENAME).$(LANG1).dix
-	apertium-validate-acx $(BASENAME).$(LANG1).acx
-	lt-comp lr $(BASENAME).$(LANG1).dix $@ $(BASENAME).$(LANG1).acx
+###############################################################################
+## Transducers, disambiguation rules, transfer
+###############################################################################
 
-$(PREFIX2).autogen.bin: $(BASENAME).$(LANG1).dix
-	apertium-validate-dictionary $(BASENAME).$(LANG1).dix
-	lt-comp rl $(BASENAME).$(LANG1).dix $@
 
-$(PREFIX2).automorf.bin: $(BASENAME).$(LANG2).dix
-	apertium-validate-dictionary $(BASENAME).$(LANG2).dix
-	apertium-validate-acx $(BASENAME).$(LANG2).acx
-	lt-comp lr $(BASENAME).$(LANG2).dix $@ $(BASENAME).$(LANG2).acx
+.deps/$(BASENAME).$(PREFIX1).dix: $(BASENAME).$(PREFIX1).dix lexchoicebil.xsl .deps/.d
+	xsltproc lexchoicebil.xsl $(BASENAME).$(PREFIX1).dix > $@
 
-$(PREFIX1).autogen.bin: $(BASENAME).$(LANG2).dix
-	apertium-validate-dictionary $(BASENAME).$(LANG2).dix
-	lt-comp rl $(BASENAME).$(LANG2).dix $@
+
+# slv-ita
+$(PREFIX1).automorf.bin: $(AP_SRC1)/$(LANG1).automorf.bin $(PREFIX1).autobil.bin
+	lt-trim $^ $@
+
+$(PREFIX1).rlx.bin: $(AP_SRC1)/$(LANG1).rlx.bin
+	cp $< $@
+
+$(PREFIX1).prob: $(AP_SRC1)/$(LANG1).prob
+	cp $< $@
+
+$(PREFIX1).autobil.bin: .deps/$(BASENAME).$(PREFIX1).dix
+	apertium-validate-dictionary $<
+	lt-comp lr $< $@
 
 $(PREFIX1).t1x.bin: $(BASENAME).$(PREFIX1).t1x
-	apertium-validate-transfer $(BASENAME).$(PREFIX1).t1x
-	apertium-preprocess-transfer $(BASENAME).$(PREFIX1).t1x $@
-
-$(PREFIX2).t1x.bin: $(BASENAME).$(PREFIX2).t1x
-	apertium-validate-transfer $(BASENAME).$(PREFIX2).t1x
-	apertium-preprocess-transfer $(BASENAME).$(PREFIX2).t1x $@
+	apertium-validate-transfer $<
+	apertium-preprocess-transfer $< $@
 
 $(PREFIX1).t2x.bin: $(BASENAME).$(PREFIX1).t2x
-	apertium-validate-interchunk $(BASENAME).$(PREFIX1).t2x
-	apertium-preprocess-transfer $(BASENAME).$(PREFIX1).t2x $@
-
-$(PREFIX2).t2x.bin: $(BASENAME).$(PREFIX2).t2x
-	apertium-validate-interchunk $(BASENAME).$(PREFIX2).t2x
-	apertium-preprocess-transfer $(BASENAME).$(PREFIX2).t2x $@
+	apertium-validate-interchunk $<
+	apertium-preprocess-transfer $< $@
 
 $(PREFIX1).t3x.bin: $(BASENAME).$(PREFIX1).t3x
-	apertium-validate-postchunk $(BASENAME).$(PREFIX1).t3x
-	apertium-preprocess-transfer $(BASENAME).$(PREFIX1).t3x $@
+	apertium-validate-postchunk $<
+	apertium-preprocess-transfer $< $@
+
+$(PREFIX1).autogen.bin: $(AP_SRC2)/$(LANG2).autogen.bin
+	cp $< $@
+
+$(PREFIX1).autopgen.bin: $(AP_SRC2)/$(LANG2).autopgen.bin
+	cp $< $@
+
+
+# ita-slv
+$(PREFIX2).automorf.bin: $(AP_SRC2)/$(LANG2).automorf.bin $(PREFIX2).autobil.bin
+	lt-trim $^ $@
+
+# $(PREFIX2).rlx.bin: $(AP_SRC2)/$(LANG2).rlx.bin
+# 	cp $< $@
+
+$(PREFIX2).prob: $(AP_SRC2)/$(LANG2).prob
+	cp $< $@
+
+$(PREFIX2).autobil.bin: .deps/$(BASENAME).$(PREFIX1).dix
+	apertium-validate-dictionary $<
+	lt-comp rl $< $@
+
+$(PREFIX2).t1x.bin: $(BASENAME).$(PREFIX2).t1x
+	apertium-validate-transfer $<
+	apertium-preprocess-transfer $< $@
+
+$(PREFIX2).t2x.bin: $(BASENAME).$(PREFIX2).t2x
+	apertium-validate-interchunk $<
+	apertium-preprocess-transfer $< $@
 
 $(PREFIX2).t3x.bin: $(BASENAME).$(PREFIX2).t3x
-	apertium-validate-postchunk $(BASENAME).$(PREFIX2).t3x
-	apertium-preprocess-transfer $(BASENAME).$(PREFIX2).t3x $@
+	apertium-validate-postchunk $<
+	apertium-preprocess-transfer $< $@
 
-$(PREFIX1).autobil.bin: $(BASENAME).$(PREFIX1).dix
-	if [ ! -d .deps ]; then mkdir .deps; fi
-	xsltproc lexchoicebil.xsl $(BASENAME).$(PREFIX1).dix > .deps/$(BASENAME).$(PREFIX1).dix
-	apertium-validate-dictionary .deps/$(BASENAME).$(PREFIX1).dix
-	lt-comp lr .deps/$(BASENAME).$(PREFIX1).dix $@
+$(PREFIX2).autogen.bin: $(AP_SRC1)/$(LANG1).autogen.bin
+	cp $< $@
 
-$(PREFIX2).autobil.bin: $(BASENAME).$(PREFIX1).dix
-	apertium-validate-dictionary $(BASENAME).$(PREFIX1).dix
-	lt-comp rl $(BASENAME).$(PREFIX1).dix $@
+$(PREFIX2).autopgen.bin: $(AP_SRC1)/$(LANG1).autopgen.bin
+	cp $< $@
 
-$(PREFIX1).autopgen.bin: $(BASENAME).post-$(LANG1).dix
-	apertium-validate-dictionary $(BASENAME).post-$(LANG1).dix
-	lt-comp lr $(BASENAME).post-$(LANG1).dix $@
 
-$(PREFIX2).autopgen.bin: $(BASENAME).post-$(LANG2).dix
-	apertium-validate-dictionary $(BASENAME).post-$(LANG2).dix
-	lt-comp lr $(BASENAME).post-$(LANG2).dix $@
 
-EXTRA_DIST=$(BASENAME).post-$(LANG1).dix $(BASENAME).post-$(LANG2).dix \
-	$(BASENAME).$(LANG1).tsx \
-	$(BASENAME).$(LANG2).tsx \
-	$(PREFIX1).prob $(PREFIX2).prob \
-	$(BASENAME).$(LANG1).dix \
-	$(BASENAME).$(LANG2).dix \
-	buscaPar.xsl principal.xsl alt.xsl \
-	$(BASENAME).$(PREFIX1).t1x $(BASENAME).$(PREFIX1).t2x \
-	$(BASENAME).$(PREFIX1).t3x $(BASENAME).$(PREFIX2).t1x \
-	$(BASENAME).$(PREFIX2).t2x $(BASENAME).$(PREFIX2).t3x \
-	$(BASENAME).$(LANG1).acx $(BASENAME).$(LANG2).acx \
-	modes.xml
 
-clean-dicts:
-	if [ -d .deps ]; then rm .deps/*; fi
+###############################################################################
+## Distribution
+###############################################################################
 
-apertium_sl_it_DATA=$(PREFIX1).automorf.bin $(PREFIX2).automorf.bin \
-		$(PREFIX1).autobil.bin $(PREFIX2).autobil.bin \
-		$(PREFIX1).autogen.bin $(PREFIX2).autogen.bin \
-		$(PREFIX1).autopgen.bin $(PREFIX2).autopgen.bin \
-		$(PREFIX1).prob $(PREFIX2).prob \
-		$(PREFIX1).t1x.bin $(PREFIX2).t1x.bin \
-		$(PREFIX1).t2x.bin $(PREFIX2).t2x.bin \
-		$(PREFIX1).t3x.bin $(PREFIX2).t3x.bin \
-		$(PREFIX1).mode $(PREFIX2).mode 
+EXTRA_DIST=$(BASENAME).$(PREFIX1).dix \
+	   $(BASENAME).$(PREFIX1).t1x \
+	   $(BASENAME).$(PREFIX1).t2x \
+	   $(BASENAME).$(PREFIX1).t3x \
+	   $(BASENAME).$(PREFIX2).t1x \
+	   $(BASENAME).$(PREFIX2).t2x \
+	   $(BASENAME).$(PREFIX2).t3x \
+	   modes.xml lexchoicebil.xsl
 
-apertium_sl_itdir=$(prefix)/share/apertium/apertium-$(PREFIX1)/
-apertium_sl_it_modesdir=$(prefix)/share/apertium/modes/
+###############################################################################
+## Installation
+###############################################################################
 
-$(PREFIX1).mode: modes.xml
-	apertium-gen-modes modes.xml
-	cp *.mode modes/
+apertium_slv_itadir=$(prefix)/share/apertium/$(BASENAME)/
 
-$(PREFIX2).mode: modes.xml
-	apertium-gen-modes modes.xml
-	cp *.mode modes/
+# Files which should be installed to $(prefix)/share/apertium/$(BASENAME)/:
+apertium_slv_ita_DATA=$(TARGETS_COMMON) \
+	$(BASENAME).$(PREFIX1).t1x \
+	$(BASENAME).$(PREFIX1).t2x \
+	$(BASENAME).$(PREFIX1).t3x \
+	$(BASENAME).$(PREFIX2).t1x \
+	$(BASENAME).$(PREFIX2).t2x \
+	$(BASENAME).$(PREFIX2).t3x
 
-modes: modes.xml
-	apertium-gen-modes modes.xml
-	cp *.mode modes/
+# All modes are created by the same goal, listing several will just give problems with make -j2
+noinst_DATA=modes/$(PREFIX1).mode
 
-install-data-local:
-	apertium-gen-modes modes.xml apertium-$(PREFIX1)
-	test -d $(DESTDIR)$(apertium_sl_it_modesdir) || mkdir $(DESTDIR)$(apertium_sl_it_modesdir)
-	$(INSTALL_DATA) $(PREFIX1).mode $(DESTDIR)$(apertium_sl_it_modesdir)
-	$(INSTALL_DATA) $(PREFIX2).mode $(DESTDIR)$(apertium_sl_it_modesdir)
-	$(INSTALL_DATA) $(BASENAME).$(PREFIX1).t1x $(BASENAME).$(PREFIX1).t2x $(DESTDIR)$(apertium_sl_itdir)
-	$(INSTALL_DATA) $(BASENAME).$(PREFIX1).t3x $(BASENAME).$(PREFIX2).t1x $(DESTDIR)$(apertium_sl_itdir)
-	$(INSTALL_DATA) $(BASENAME).$(PREFIX2).t2x $(BASENAME).$(PREFIX2).t3x $(DESTDIR)$(apertium_sl_itdir)
+install-data-local: install-modes
 
-CLEANFILES = -rf $(TARGETS) modes
 
+###############################################################################
+## Cleanup
+###############################################################################
+
+CLEANFILES = $(TARGETS_COMMON)
+clean-local: 
+	-rm -rf .deps modes
+
+###############################################################################
+## Test
+###############################################################################
+
+test: all
+	echo "Såg ho ikkje orda?" | apertium -d . slv-ita | tee .test-mt
+	@echo "Så hun ikke ordene?" > .test-ref
+	@diff .test-ref .test-mt
+	echo "Jeg har åler i min luftputebåt" | apertium -d . ita-slv | tee .test-mt
+	@echo "Eg har ålar i luftputebåten min" > .test-ref
+	@diff .test-ref .test-mt
+	@rm .test-ref .test-mt
