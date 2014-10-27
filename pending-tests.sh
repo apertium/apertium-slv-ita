@@ -8,7 +8,7 @@ then
     GREP='WORKS'
 fi
 
-bash wiki-tests.sh Pending sl it update | grep -C $C "$GREP"
+bash wiki-tests.sh Pending slv ita update | grep -C $C "$GREP"
 
 #bash wiki-tests.sh Pending es sl update | grep -C $C "$GREP"
 
