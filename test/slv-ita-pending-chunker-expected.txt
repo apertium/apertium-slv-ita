@@ -1,0 +1,110 @@
+[1AT-C8D7K9Dt#0] ^VerbWhole<verb_whole>{^Essere<vblex><fut><p3><pl>$}$ ^VerbWhole<verb_whole>{^lavorare<vblex><past><m><pl>$}$^default<default>{^.<sent>$}$
+[/1AT-C8D7K9Dt]
+[24tB-aVpOSBU#0] ^default<default>{^Di<pr>$}$ ^unknown<unknown>{^*tukaj$}$ ^unknown<unknown>{^*se$}$ ^unknown<unknown>{^*vidi$}$ ^unknown<unknown>{^*vse$}$ ^NomOth<NomOth>{^posto<n><sg><nom>$}$^default<default>{^.<sent>$}$
+[/24tB-aVpOSBU]
+[2F6gO9K4tpC0#0] ^VerbWhole<verb_whole>{^Lavorare<vblex><past><m><sg>$}$ ^VerbWhole<verb_whole>{^essere<vblex><pres><p3><sg>$}$ ^unknown<unknown>{^*ves$}$ ^NomOth<NomOth>{^fondo<n><nom>$}$^default<default>{^.<sent>$}$
+[/2F6gO9K4tpC0]
+[2JhRugHmZfdv#0] ^VerbWhole<verb_whole>{^Essere<vblex><fut><p2><sg>$}$ ^VerbWhole<verb_whole>{^lavorare<vblex><past><m><du>$}$^default<default>{^.<sent>$}$
+[/2JhRugHmZfdv]
+[2mMxw6UjXBXV#0] ^unknown<unknown>{^*Sergio$}$ ^VerbWhole<verb_whole>{^essere<vblex><pres><p3><sg>$}$ ^unknown<unknown>{^*moj$}$ ^NomOth<NomOth>{^fratello<n><sg><nom>$}$^default<default>{^.<sent>$}$
+[/2mMxw6UjXBXV]
+[4MIeb-86qQig#0] ^VerbWhole<verb_whole>{^Essere<vblex><fut><p2><sg>$}$ ^VerbWhole<verb_whole>{^lavorare<vblex><past><m><sg>$}$^default<default>{^.<sent>$}$
+[/4MIeb-86qQig]
+[5uiV4NSaxkWw#0] ^default<default>{^Questo<prn><tn><f><sg><acc>$}$ ^NomOth<NomOth>{^sole<n><sg><nom>$}$^default<default>{^.<sent>$}$
+[/5uiV4NSaxkWw]
+[7Cg1E7USzz8x#0] ^VerbWhole<verb_whole>{^Essere<vblex><fut><p1><pl>$}$ ^VerbWhole<verb_whole>{^lavorare<vblex><past><m><pl>$}$^default<default>{^.<sent>$}$
+[/7Cg1E7USzz8x]
+[9wuKwqcGwcIG#0] ^unknown<unknown>{^*Vprašimo$}$ ^unknown<unknown>{^*koga$}$^default<default>{^.<sent>$}$
+[/9wuKwqcGwcIG]
+[AX2-CqxU7Bqv#0] ^VerbWhole<verb_whole>{^Essere<vblex><fut><p3><sg>$}$ ^VerbWhole<verb_whole>{^lavorare<vblex><past><m><sg>$}$^default<default>{^.<sent>$}$
+[/AX2-CqxU7Bqv]
+[AwycCIr0PLun#0] ^adjchunk<adv>{^Bello<adj><sup><m><pl><nom><ind>$}$ ^unknown<unknown>{^*dekle$}$ ^default<default>{^a<pr>$}$ ^unknown<unknown>{^*svetu$}$ ^VerbWhole<verb_whole>{^essere<vblex><pres><p3><sg>$}$ ^VerbWhole<verb_whole>{^venire<vblex><past><nt><sg>$}$ ^default<default>{^nel<pr>$}$ ^unknown<unknown>{^*mojo$}$ ^NomOth<NomOth>{^casa<n><sg><nom>$}$^default<default>{^.<sent>$}$
+[/AwycCIr0PLun]
+[C1WNh12YpUnK#0] ^unknown<unknown>{^*Bratova$}$ ^unknown<unknown>{^*miza$}$^default<default>{^.<sent>$}$
+[/C1WNh12YpUnK]
+[CAtrYJLLSUmC#0] ^unknown<unknown>{^*Zamenjal$}$ ^VerbWhole<verb_whole>{^essere<vblex><pres><p1><sg>$}$ ^unknown<unknown>{^*ga$}$ ^unknown<unknown>{^*z$}$ ^unknown<unknown>{^*njegovim$}$ ^NomOth<NomOth>{^padre<n><sg><nom>$}$^default<default>{^.<sent>$}$
+[/CAtrYJLLSUmC]
+[CozMqTe8F57_#0] ^VerbWhole<verb_whole>{^Essere<vblex><fut><p2><pl>$}$ ^VerbWhole<verb_whole>{^lavorare<vblex><past><m><pl>$}$^default<default>{^.<sent>$}$
+[/CozMqTe8F57_]
+[DBvk1vBmzqab#0] ^NomOth<NomOth>{^Terra<n><sg><nom>$}$^default<default>{^.<sent>$}$
+[/DBvk1vBmzqab]
+[DwN-N1tZjizL#0] ^unknown<unknown>{^*Bramovi$}$ ^NomOth<NomOth>{^bacio<n><sg><nom>$}$^default<default>{^.<sent>$}$
+[/DwN-N1tZjizL]
+[E4uq7p_lDarz#0] ^VerbWhole<verb_whole>{^Lavorare<vblex><pres><p2><sg>$}$^default<default>{^.<sent>$}$
+[/E4uq7p_lDarz]
+[FMwWt6qL-moq#0] ^default<default>{^Anche<adv>$}$ ^unknown<unknown>{^*Agata$}$ ^unknown<unknown>{^*se$}$ ^VerbWhole<verb_whole>{^essere<vblex><pres><p3><sg>$}$ ^unknown<unknown>{^*močno$}$ ^unknown<unknown>{^*spremenila$}$^default<default>{^.<sent>$}$
+[/FMwWt6qL-moq]
+[Gptqi9ADnMSc#0] ^VerbWhole<verb_whole>{^Essere<vblex><pres><p2><sg>$}$ ^VerbWhole<verb_whole>{^lavorare<vblex><past><m><sg>$}$^default<default>{^.<sent>$}$
+[/Gptqi9ADnMSc]
+[MzP3LVXkj4LV#0] ^VerbWhole<verb_whole>{^Essere<vblex><pres><p1><sg>$}$ ^VerbWhole<verb_whole>{^lavorare<vblex><past><m><sg>$}$^default<default>{^.<sent>$}$
+[/MzP3LVXkj4LV]
+[NTwhtbkra86O#0] ^unknown<unknown>{^*Gremolata$}$ ^default<default>{^nel<pr>$}$ ^unknown<unknown>{^*kristalnem$}$ ^unknown<unknown>{^*kozarcu$}$ ^unknown<unknown>{^*z$}$ ^adjchunk<adv>{^alto<adj><m><pl><nom><ind>$}$ ^unknown<unknown>{^*pecljem$}$ ^unknown<unknown>{^*se$}$ ^VerbWhole<verb_whole>{^essere<vblex><pres><p3><sg>$}$ ^unknown<unknown>{^*že$}$ ^unknown<unknown>{^*stalila$}$^default<default>{^.<sent>$}$
+[/NTwhtbkra86O]
+[NzO5f-qRWTCM#0] ^default<default>{^Questo<prn><tn><m><sg><nom>$}$ ^NomOth<NomOth>{^Zio<n><sg><nom>$}$^default<default>{^.<sent>$}$
+[/NzO5f-qRWTCM]
+[O6x128DFn3Ho#0] ^unknown<unknown>{^*Nočete$}$ ^VerbInfinitive<verb_inf>{^lavorare<vblex><inf>$}$^default<default>{^.<sent>$}$
+[/O6x128DFn3Ho]
+[OE-Svgwu_WE9#0] ^unknown<unknown>{^*Nočemo$}$ ^VerbInfinitive<verb_inf>{^lavorare<vblex><inf>$}$^default<default>{^.<sent>$}$
+[/OE-Svgwu_WE9]
+[Onn--xQ9KGNx#0] ^unknown<unknown>{^*Moj$}$ ^NomOth<NomOth>{^fratello<n><sg><nom>$}$^default<default>{^.<sent>$}$
+[/Onn--xQ9KGNx]
+[P6TGz4ftb18t#0] ^unknown<unknown>{^*Ko$}$ ^VerbWhole<verb_whole>{^essere<vblex><pres><p1><sg>$}$ ^unknown<unknown>{^*ga$}$ ^unknown<unknown>{^*poklical$}$^default<default>{^,<cm>$}$ ^VerbWhole<verb_whole>{^essere<vblex><pres><p3><sg>$}$ ^VerbWhole<verb_whole>{^lavorare<vblex><past><m><sg>$}$^default<default>{^.<sent>$}$
+[/P6TGz4ftb18t]
+[PWYZeSXqnkGm#0] ^unknown<unknown>{^*Nočem$}$ ^VerbInfinitive<verb_inf>{^lavorare<vblex><inf>$}$^default<default>{^.<sent>$}$
+[/PWYZeSXqnkGm]
+[PzIrS6pJdJry#0] ^unknown<unknown>{^*Janez$}$ ^VerbWhole<verb_whole>{^essere<vblex><pres><p3><sg>$}$ ^unknown<unknown>{^*pravkar$}$ ^VerbWhole<verb_whole>{^venire<vblex><past><m><sg>$}$^default<default>{^.<sent>$}$
+[/PzIrS6pJdJry]
+[V3YDqM3dUnv9#0] ^VerbWhole<verb_whole>{^Essere<vblex><pres><p2><sg>$}$ ^VerbWhole<verb_whole>{^lavorare<vblex><past><m><du>$}$^default<default>{^.<sent>$}$
+[/V3YDqM3dUnv9]
+[VoyKxrE_W7AO#0] ^adjchunk<adv>{^Diverso<adj><m><pl><nom><ind>$}$ ^NomOth<NomOth>{^lingua<n><pl><nom>$}$^default<default>{^.<sent>$}$
+[/VoyKxrE_W7AO]
+[ZyZjvZb-HKP1#0] ^default<default>{^Domani<adv><sint>$}$ ^VerbWhole<verb_whole>{^partire<vblex><pres><p3><pl>$}$ ^default<default>{^nel<pr>$}$ ^unknown<unknown>{^*London$}$^default<default>{^.<sent>$}$
+[/ZyZjvZb-HKP1]
+[_XKRtUjeIqe3#0] ^unknown<unknown>{^*Moja$}$ ^unknown<unknown>{^*sestra$}$^default<default>{^.<sent>$}$
+[/_XKRtUjeIqe3]
+[a5hKkQ4dEGQK#0] ^unknown<unknown>{^*Nočejo$}$ ^VerbInfinitive<verb_inf>{^lavorare<vblex><inf>$}$^default<default>{^.<sent>$}$
+[/a5hKkQ4dEGQK]
+[bkoWTHZRbvSo#0] ^unknown<unknown>{^*Nočeš$}$ ^VerbInfinitive<verb_inf>{^lavorare<vblex><inf>$}$^default<default>{^.<sent>$}$
+[/bkoWTHZRbvSo]
+[bwCP65RWLdcH#0] ^unknown<unknown>{^*Marianna$}$ ^unknown<unknown>{^*se$}$ ^unknown<unknown>{^*sunkovito$}$ ^unknown<unknown>{^*zbudi$}$ ^unknown<unknown>{^*z$}$ ^NomOth<NomOth>{^sentimento<n><sg><nom>$}$ ^unknown<unknown>{^*poraženosti$}$^default<default>{^.<sent>$}$
+[/bwCP65RWLdcH]
+[gQnta53sMyWc#0] ^unknown<unknown>{^*Ven$}$ ^VerbWhole<verb_whole>{^essere<vblex><pres><p1><pl>$}$ ^unknown<unknown>{^*šli$}$ ^unknown<unknown>{^*skoz$}$ ^unknown<unknown>{^*stranska$}$ ^unknown<unknown>{^*vrata$}$^default<default>{^.<sent>$}$
+[/gQnta53sMyWc]
+[jWfP-5E1Rww7#0] ^VerbWhole<verb_whole>{^Venire<vblex><past><m><sg>$}$ ^VerbWhole<verb_whole>{^essere<vblex><pres><p1><sg>$}$^default<default>{^,<cm>$}$ ^VerbWhole<verb_whole>{^dare<vblex><pres><p3><sg>$}$ ^VerbPogojnikVblex<verb_cnivblex>{^essere<vblex><past><m>$ ^biti<vbser><cni>$}$ ^default<default>{^questo<prn><tn><m><pl><nom>$}$ ^unknown<unknown>{^*pomagal$}$^default<default>{^.<sent>$}$
+[/jWfP-5E1Rww7]
+[jYhTMwOfZd44#0] ^unknown<unknown>{^*Jaz$}$^default<default>{^.<sent>$}$
+[/jYhTMwOfZd44]
+[k7rNwKQLVKDi#0] ^VerbWhole<verb_whole>{^Lavorare<vblex><pres><p1><pl>$}$^default<default>{^.<sent>$}$
+[/k7rNwKQLVKDi]
+[kSmK6GMrVr9r#0] ^unknown<unknown>{^*Sestrina$}$ ^unknown<unknown>{^*miza$}$ ^VerbWhole<verb_whole>{^essere<vblex><pres><p3><sg>$}$ ^adjchunk<adv>{^rosso<adj><m><nom><ind>$}$^default<default>{^.<sent>$}$
+[/kSmK6GMrVr9r]
+[lYwChdQJLEBK#0] ^unknown<unknown>{^*Skuhal$}$ ^VerbWhole<verb_whole>{^essere<vblex><pres><p3><sg>$}$ ^unknown<unknown>{^*dobro$}$ ^NomOth<NomOth>{^pranzo<n><sg><nom>$}$^default<default>{^.<sent>$}$
+[/lYwChdQJLEBK]
+[m139q9FYyfJ9#0] ^VerbWhole<verb_whole>{^Entrare<vblex><past><m><sg>$}$ ^VerbWhole<verb_whole>{^essere<vblex><pres><p1><sg>$}$ ^default<default>{^nel<pr>$}$ ^NomOth<NomOth>{^casa<n><sg><nom>$}$^default<default>{^.<sent>$}$
+[/m139q9FYyfJ9]
+[mFbUSeRL5fpI#0] ^VerbWhole<verb_whole>{^Essere<vblex><pres><p1><pl>$}$ ^VerbWhole<verb_whole>{^lavorare<vblex><past><m><pl>$}$^default<default>{^.<sent>$}$
+[/mFbUSeRL5fpI]
+[msldyzdQ3EW2#0] ^unknown<unknown>{^*Ko$}$ ^VerbWhole<verb_whole>{^essere<vblex><pres><p1><pl>$}$ ^VerbWhole<verb_whole>{^entrare<vblex><past><m><pl>$}$^default<default>{^,<cm>$}$ ^VerbWhole<verb_whole>{^essere<vblex><pres><p3><sg>$}$ ^unknown<unknown>{^*kuhal$}$ ^NomOth<NomOth>{^pranzo<n><sg><nom>$}$^default<default>{^.<sent>$}$
+[/msldyzdQ3EW2]
+[sp46BKiqDFef#0] ^NomOth<NomOth>{^Sole<n><sg><nom>$}$^default<default>{^.<sent>$}$
+[/sp46BKiqDFef]
+[ufhJVL7SwOAU#0] ^VerbWhole<verb_whole>{^Essere<vblex><pres><p3><pl>$}$ ^VerbWhole<verb_whole>{^lavorare<vblex><past><m><pl>$}$^default<default>{^.<sent>$}$
+[/ufhJVL7SwOAU]
+[wFGWDzOBs-5D#0] ^VerbWhole<verb_whole>{^Lavorare<vblex><pres><p3><pl>$}$^default<default>{^.<sent>$}$
+[/wFGWDzOBs-5D]
+[wcjXR4Bnnhbi#0] ^NomOth<NomOth>{^Allievo<n><pl><nom>$}$ ^VerbWhole<verb_whole>{^essere<vblex><pres><p1><sg>$}$ ^unknown<unknown>{^*poklical$}$ ^default<default>{^dopo<pr>$}$ ^NomOth<NomOth>{^nome<n><nt><sg><nom>$}$^default<default>{^.<sent>$}$
+[/wcjXR4Bnnhbi]
+[xCbxd6EVqWlx#0] ^VerbWhole<verb_whole>{^Lavorare<vblex><pres><p1><sg>$}$^default<default>{^.<sent>$}$
+[/xCbxd6EVqWlx]
+[xFYr574ndN-7#0] ^unknown<unknown>{^*Vsega$}$ ^default<default>{^no<adv>$}$ ^unknown<unknown>{^*smemo$}$ ^unknown<unknown>{^*videti$}$^default<default>{^.<sent>$}$
+[/xFYr574ndN-7]
+[xjh0Aqa2VEDI#0] ^NomOth<NomOth>{^Colore<n><sg><nom>$}$ ^unknown<unknown>{^*očetovega$}$ ^unknown<unknown>{^*avtomobila$}$ ^VerbWhole<verb_whole>{^essere<vblex><pres><p3><sg>$}$ ^adjchunk<adv>{^rosso<adj><m><nom><ind>$}$^default<default>{^.<sent>$}$
+[/xjh0Aqa2VEDI]
+[yeO76t-erOJL#0] ^VerbWhole<verb_whole>{^Lavorare<vblex><pres><p2><pl>$}$^default<default>{^.<sent>$}$
+[/yeO76t-erOJL]
+[yxilG5lxehdG#0] ^NomOth<NomOth>{^Zio<n><sg><nom>$}$^default<default>{^.<sent>$}$
+[/yxilG5lxehdG]
+[zIO3LEPaiBUM#0] ^unknown<unknown>{^*Prispelo$}$ ^VerbWhole<verb_whole>{^essere<vblex><pres><p3><sg>$}$ ^NomOth<NomOth>{^lettera<n><sg><nom>$}$ ^default<default>{^dietro<pr>$}$ ^unknown<unknown>{^*Giannija$}$^default<default>{^.<sent>$}$
+[/zIO3LEPaiBUM]
+[znsl4aRdzZYF#0] ^unknown<unknown>{^*Sprevod$}$ ^unknown<unknown>{^*šel$}$ ^default<default>{^dopo<pr>$}$ ^NomOth<NomOth>{^posto<n><sg><nom>$}$^default<default>{^.<sent>$}$
+[/znsl4aRdzZYF]

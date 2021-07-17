@@ -156,10 +156,4 @@ clean-local:
 ###############################################################################
 
 test: all
-	echo "živeti" | apertium -d . slv-ita | tee .test-mt
-	@echo "vivere" > .test-ref
-	@diff .test-ref .test-mt
-	echo "frutta" | apertium -d . ita-slv | tee .test-mt
-	@echo "sadje" > .test-ref
-	@diff .test-ref .test-mt
-	@rm .test-ref .test-mt
+	apertium-regtest test

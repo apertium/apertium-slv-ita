@@ -1,0 +1,14 @@
+{
+    "ita-slv": {
+        "input": "ita-slv-input.txt",
+        "mode": "ita-slv"
+    },
+    "slv-ita": {
+        "input": "slv-ita-input.txt",
+        "mode": "slv-ita"
+    },
+    "slv-ita-pending": {
+        "input": "slv-ita-pending-input.txt",
+        "mode": "slv-ita"
+    }
+}

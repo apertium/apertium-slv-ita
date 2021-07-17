@@ -1,0 +1,110 @@
+[1AT-C8D7K9Dt#0] ^Bodo/Biti<vbser><fut><p3><pl>$ ^delali/delati<vblex><imperf><past><m><pl>/delati<vblex><imperf><past><f><du>/delati<vblex><imperf><past><nt><du>$^./.<sent>$
+[/1AT-C8D7K9Dt]
+[24tB-aVpOSBU#0] ^Od/Od<pr>$ ^tukaj/*tukaj$ ^se/*se$ ^vidi/*vidi$ ^vse/*vse$ ^mesto/mesto<n><nt><sg><nom>/mesto<n><nt><sg><acc>$^./.<sent>$
+[/24tB-aVpOSBU]
+[2F6gO9K4tpC0#0] ^Delal/Delati<vblex><imperf><past><m><sg>$ ^je/biti<vbser><pres><p3><sg>$ ^ves/*ves$ ^dan/dno<n><nt><du><gen>/dno<n><nt><pl><gen>/dati<vblex><perf><pp><m><sg><nom><ind>/dati<vblex><perf><pp><m><sg><acc><ind>$^./.<sent>$
+[/2F6gO9K4tpC0]
+[2JhRugHmZfdv#0] ^Boš/Biti<vbser><fut><p2><sg>$ ^delala/delati<vblex><imperf><past><m><du>/delati<vblex><imperf><past><f><sg>/delati<vblex><imperf><past><nt><pl>$^./.<sent>$
+[/2JhRugHmZfdv]
+[2mMxw6UjXBXV#0] ^Sergio/*Sergio$ ^je/biti<vbser><pres><p3><sg>$ ^moj/*moj$ ^brat/brat<n><ma><sg><nom>$^./.<sent>$
+[/2mMxw6UjXBXV]
+[4MIeb-86qQig#0] ^Boš/Biti<vbser><fut><p2><sg>$ ^delal/delati<vblex><imperf><past><m><sg>$^./.<sent>$
+[/4MIeb-86qQig]
+[5uiV4NSaxkWw#0] ^To/Ta<prn><dem><f><sg><acc>/Ta<prn><dem><f><sg><ins>/Ta<prn><dem><nt><sg><nom>/Ta<prn><dem><nt><sg><acc>$ ^sonce/sonce<n><nt><sg><nom>/sonce<n><nt><sg><acc>$^./.<sent>$
+[/5uiV4NSaxkWw]
+[7Cg1E7USzz8x#0] ^Bomo/Biti<vbser><fut><p1><pl>$ ^delali/delati<vblex><imperf><past><m><pl>/delati<vblex><imperf><past><f><du>/delati<vblex><imperf><past><nt><du>$^./.<sent>$
+[/7Cg1E7USzz8x]
+[9wuKwqcGwcIG#0] ^Vprašimo/*Vprašimo$ ^koga/*koga$^./.<sent>$
+[/9wuKwqcGwcIG]
+[AX2-CqxU7Bqv#0] ^Bo/Biti<vbser><fut><p3><sg>$ ^delal/delati<vblex><imperf><past><m><sg>$^./.<sent>$
+[/AX2-CqxU7Bqv]
+[AwycCIr0PLun#0] ^Najlepše/Lep<adj><sup><m><pl><acc><ind>/Lep<adj><sup><f><sg><gen><ind>/Lep<adj><sup><f><pl><nom><ind>/Lep<adj><sup><f><pl><acc><ind>/Lep<adj><sup><nt><sg><nom><ind>/Lep<adj><sup><nt><sg><acc><ind>$ ^dekle/*dekle$ ^na/na<pr>$ ^svetu/*svetu$ ^je/biti<vbser><pres><p3><sg>$ ^prišlo/priti<vblex><perf><past><nt><sg>$ ^v/v<pr>$ ^mojo/*mojo$ ^hišo/hiša<n><f><sg><acc>/hiša<n><f><sg><ins>$^./.<sent>$
+[/AwycCIr0PLun]
+[C1WNh12YpUnK#0] ^Bratova/*Bratova$ ^miza/*miza$^./.<sent>$
+[/C1WNh12YpUnK]
+[CAtrYJLLSUmC#0] ^Zamenjal/*Zamenjal$ ^sem/biti<vbser><pres><p1><sg>$ ^ga/*ga$ ^z/*z$ ^njegovim/*njegovim$ ^očetom/oče<n><ma><sg><ins>/oče<n><ma><pl><dat>$^./.<sent>$
+[/CAtrYJLLSUmC]
+[CozMqTe8F57_#0] ^Boste/Biti<vbser><fut><p2><pl>$ ^delali/delati<vblex><imperf><past><m><pl>/delati<vblex><imperf><past><f><du>/delati<vblex><imperf><past><nt><du>$^./.<sent>$
+[/CozMqTe8F57_]
+[DBvk1vBmzqab#0] ^Zemlja/Zemlja<n><f><sg><nom>/Zemlja<n><f><du><gen>/Zemlja<n><f><pl><gen>$^./.<sent>$
+[/DBvk1vBmzqab]
+[DwN-N1tZjizL#0] ^Bramovi/*Bramovi$ ^poljub/poljub<n><mi><sg><nom>/poljub<n><mi><sg><acc>$^./.<sent>$
+[/DwN-N1tZjizL]
+[E4uq7p_lDarz#0] ^Delaš/Delati<vblex><imperf><pres><p2><sg>$^./.<sent>$
+[/E4uq7p_lDarz]
+[FMwWt6qL-moq#0] ^Tudi/Tudi<part>$ ^Agata/*Agata$ ^se/*se$ ^je/biti<vbser><pres><p3><sg>$ ^močno/*močno$ ^spremenila/*spremenila$^./.<sent>$
+[/FMwWt6qL-moq]
+[Gptqi9ADnMSc#0] ^Si/Biti<vbser><pres><p2><sg>$ ^delal/delati<vblex><imperf><past><m><sg>$^./.<sent>$
+[/Gptqi9ADnMSc]
+[MzP3LVXkj4LV#0] ^Sem/Biti<vbser><pres><p1><sg>$ ^delal/delati<vblex><imperf><past><m><sg>$^./.<sent>$
+[/MzP3LVXkj4LV]
+[NTwhtbkra86O#0] ^Gremolata/*Gremolata$ ^v/v<pr>$ ^kristalnem/*kristalnem$ ^kozarcu/*kozarcu$ ^z/*z$ ^visokim/visok<adj><m><pl><dat><ind>/visok<adj><m><sg><ins><ind>/visok<adj><f><pl><dat><ind>/visok<adj><nt><pl><dat><ind>/visok<adj><nt><sg><ins><ind>$ ^pecljem/*pecljem$ ^se/*se$ ^je/biti<vbser><pres><p3><sg>$ ^že/*že$ ^stalila/*stalila$^./.<sent>$
+[/NTwhtbkra86O]
+[NzO5f-qRWTCM#0] ^Ta/Ta<prn><dem><m><sg><nom>/Ta<prn><dem><m><du><nom>/Ta<prn><dem><m><du><acc>/Ta<prn><dem><f><sg><nom>/Ta<prn><dem><nt><pl><nom>/Ta<prn><dem><nt><pl><acc>/Ta<prn><dem><mi><sg><acc>$ ^Stric/Stric<n><ma><sg><nom>$^./.<sent>$
+[/NzO5f-qRWTCM]
+[O6x128DFn3Ho#0] ^Nočete/*Nočete$ ^delati/delati<vblex><imperf><inf>$^./.<sent>$
+[/O6x128DFn3Ho]
+[OE-Svgwu_WE9#0] ^Nočemo/*Nočemo$ ^delati/delati<vblex><imperf><inf>$^./.<sent>$
+[/OE-Svgwu_WE9]
+[Onn--xQ9KGNx#0] ^Moj/*Moj$ ^brat/brat<n><ma><sg><nom>$^./.<sent>$
+[/Onn--xQ9KGNx]
+[P6TGz4ftb18t#0] ^Ko/*Ko$ ^sem/biti<vbser><pres><p1><sg>$ ^ga/*ga$ ^poklical/*poklical$^,/,<cm>$ ^je/biti<vbser><pres><p3><sg>$ ^delal/delati<vblex><imperf><past><m><sg>$^./.<sent>$
+[/P6TGz4ftb18t]
+[PWYZeSXqnkGm#0] ^Nočem/*Nočem$ ^delati/delati<vblex><imperf><inf>$^./.<sent>$
+[/PWYZeSXqnkGm]
+[PzIrS6pJdJry#0] ^Janez/*Janez$ ^je/biti<vbser><pres><p3><sg>$ ^pravkar/*pravkar$ ^prišel/priti<vblex><perf><past><m><sg>$^./.<sent>$
+[/PzIrS6pJdJry]
+[V3YDqM3dUnv9#0] ^Si/Biti<vbser><pres><p2><sg>$ ^delala/delati<vblex><imperf><past><m><du>/delati<vblex><imperf><past><f><sg>/delati<vblex><imperf><past><nt><pl>$^./.<sent>$
+[/V3YDqM3dUnv9]
+[VoyKxrE_W7AO#0] ^Različni/Različen<adj><m><pl><nom><ind>/Različen<adj><m><sg><nom><def>/Različen<adj><m><sg><acc><def>/Različen<adj><f><du><nom><ind>/Različen<adj><f><du><acc><ind>/Različen<adj><f><sg><dat><ind>/Različen<adj><f><sg><loc><ind>/Različen<adj><nt><du><nom><ind>/Različen<adj><nt><du><acc><ind>$ ^jeziki/jezik<n><mi><pl><nom>/jezik<n><mi><pl><ins>$^./.<sent>$
+[/VoyKxrE_W7AO]
+[ZyZjvZb-HKP1#0] ^Jutri/Jutri<adv><sint>$ ^odpotujejo/odpotovati<vblex><perf><pres><p3><pl>$ ^v/v<pr>$ ^London/*London$^./.<sent>$
+[/ZyZjvZb-HKP1]
+[_XKRtUjeIqe3#0] ^Moja/*Moja$ ^sestra/*sestra$^./.<sent>$
+[/_XKRtUjeIqe3]
+[a5hKkQ4dEGQK#0] ^Nočejo/*Nočejo$ ^delati/delati<vblex><imperf><inf>$^./.<sent>$
+[/a5hKkQ4dEGQK]
+[bkoWTHZRbvSo#0] ^Nočeš/*Nočeš$ ^delati/delati<vblex><imperf><inf>$^./.<sent>$
+[/bkoWTHZRbvSo]
+[bwCP65RWLdcH#0] ^Marianna/*Marianna$ ^se/*se$ ^sunkovito/*sunkovito$ ^zbudi/*zbudi$ ^z/*z$ ^občutkom/občutek<n><mi><sg><ins>/občutek<n><mi><pl><dat>$ ^poraženosti/*poraženosti$^./.<sent>$
+[/bwCP65RWLdcH]
+[gQnta53sMyWc#0] ^Ven/*Ven$ ^smo/biti<vbser><pres><p1><pl>$ ^šli/*šli$ ^skoz/*skoz$ ^stranska/*stranska$ ^vrata/*vrata$^./.<sent>$
+[/gQnta53sMyWc]
+[jWfP-5E1Rww7#0] ^Prišel/Priti<vblex><perf><past><m><sg>$ ^sem/biti<vbser><pres><p1><sg>$^,/,<cm>$ ^da/dati<vblex><perf><pres><p3><sg>$ ^bi/biti<vbser><cni>$ ^ti/ta<prn><dem><m><pl><nom>/ta<prn><dem><f><du><acc>/ta<prn><dem><nt><du><nom>/ta<prn><dem><nt><du><acc>$ ^pomagal/*pomagal$^./.<sent>$
+[/jWfP-5E1Rww7]
+[jYhTMwOfZd44#0] ^Jaz/*Jaz$^./.<sent>$
+[/jYhTMwOfZd44]
+[k7rNwKQLVKDi#0] ^Delamo/Delati<vblex><imperf><pres><p1><pl>$^./.<sent>$
+[/k7rNwKQLVKDi]
+[kSmK6GMrVr9r#0] ^Sestrina/*Sestrina$ ^miza/*miza$ ^je/biti<vbser><pres><p3><sg>$ ^rdeča/rdeč<adj><m><du><nom><ind>/rdeč<adj><m><du><acc><ind>/rdeč<adj><f><sg><nom><ind>/rdeč<adj><nt><pl><nom><ind>/rdeč<adj><nt><pl><acc><ind>$^./.<sent>$
+[/kSmK6GMrVr9r]
+[lYwChdQJLEBK#0] ^Skuhal/*Skuhal$ ^je/biti<vbser><pres><p3><sg>$ ^dobro/*dobro$ ^kosilo/kosilo<n><nt><sg><nom>/kosilo<n><nt><sg><acc>$^./.<sent>$
+[/lYwChdQJLEBK]
+[m139q9FYyfJ9#0] ^Vstopil/Vstopiti<vblex><perf><past><m><sg>$ ^sem/biti<vbser><pres><p1><sg>$ ^v/v<pr>$ ^hišo/hiša<n><f><sg><acc>/hiša<n><f><sg><ins>$^./.<sent>$
+[/m139q9FYyfJ9]
+[mFbUSeRL5fpI#0] ^Smo/Biti<vbser><pres><p1><pl>$ ^delali/delati<vblex><imperf><past><m><pl>/delati<vblex><imperf><past><f><du>/delati<vblex><imperf><past><nt><du>$^./.<sent>$
+[/mFbUSeRL5fpI]
+[msldyzdQ3EW2#0] ^Ko/*Ko$ ^smo/biti<vbser><pres><p1><pl>$ ^vstopili/vstopiti<vblex><perf><past><m><pl>/vstopiti<vblex><perf><past><f><du>/vstopiti<vblex><perf><past><nt><du>$^,/,<cm>$ ^je/biti<vbser><pres><p3><sg>$ ^kuhal/*kuhal$ ^kosilo/kosilo<n><nt><sg><nom>/kosilo<n><nt><sg><acc>$^./.<sent>$
+[/msldyzdQ3EW2]
+[sp46BKiqDFef#0] ^Sonce/Sonce<n><nt><sg><nom>/Sonce<n><nt><sg><acc>$^./.<sent>$
+[/sp46BKiqDFef]
+[ufhJVL7SwOAU#0] ^So/Biti<vbser><pres><p3><pl>$ ^delali/delati<vblex><imperf><past><m><pl>/delati<vblex><imperf><past><f><du>/delati<vblex><imperf><past><nt><du>$^./.<sent>$
+[/ufhJVL7SwOAU]
+[wFGWDzOBs-5D#0] ^Delajo/Delati<vblex><imperf><pres><p3><pl>$^./.<sent>$
+[/wFGWDzOBs-5D]
+[wcjXR4Bnnhbi#0] ^Učence/Učenec<n><ma><pl><acc>$ ^sem/biti<vbser><pres><p1><sg>$ ^poklical/*poklical$ ^po/po<pr>$ ^imenu/ime<n><nt><sg><dat>/ime<n><nt><sg><loc>$^./.<sent>$
+[/wcjXR4Bnnhbi]
+[xCbxd6EVqWlx#0] ^Delam/Delati<vblex><imperf><pres><p1><sg>$^./.<sent>$
+[/xCbxd6EVqWlx]
+[xFYr574ndN-7#0] ^Vsega/*Vsega$ ^ne/ne<part>$ ^smemo/*smemo$ ^videti/*videti$^./.<sent>$
+[/xFYr574ndN-7]
+[xjh0Aqa2VEDI#0] ^Barva/Barva<n><f><sg><nom>$ ^očetovega/*očetovega$ ^avtomobila/*avtomobila$ ^je/biti<vbser><pres><p3><sg>$ ^rdeča/rdeč<adj><m><du><nom><ind>/rdeč<adj><m><du><acc><ind>/rdeč<adj><f><sg><nom><ind>/rdeč<adj><nt><pl><nom><ind>/rdeč<adj><nt><pl><acc><ind>$^./.<sent>$
+[/xjh0Aqa2VEDI]
+[yeO76t-erOJL#0] ^Delate/Delati<vblex><imperf><pres><p2><pl>$^./.<sent>$
+[/yeO76t-erOJL]
+[yxilG5lxehdG#0] ^Stric/Stric<n><ma><sg><nom>$^./.<sent>$
+[/yxilG5lxehdG]
+[zIO3LEPaiBUM#0] ^Prispelo/*Prispelo$ ^je/biti<vbser><pres><p3><sg>$ ^pismo/pismo<n><nt><sg><nom>/pismo<n><nt><sg><acc>$ ^za/za<pr>$ ^Giannija/*Giannija$^./.<sent>$
+[/zIO3LEPaiBUM]
+[znsl4aRdzZYF#0] ^Sprevod/*Sprevod$ ^šel/*šel$ ^po/po<pr>$ ^mestu/mesto<n><nt><sg><dat>/mesto<n><nt><sg><loc>$^./.<sent>$
+[/znsl4aRdzZYF]

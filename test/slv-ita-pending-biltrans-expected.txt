@@ -1,0 +1,110 @@
+[1AT-C8D7K9Dt#0] ^Biti<vbser><fut><p3><pl>/Essere<vblex><fut><p3><pl>/Essere<vbser><fut><p3><pl>$ ^delati<vblex><imperf><past><m><pl>/lavorare<vblex><past><m><pl>$^.<sent>/.<sent>$
+[/1AT-C8D7K9Dt]
+[24tB-aVpOSBU#0] ^Od<pr>/Di<pr>$ ^*tukaj/*tukaj$ ^*se/*se$ ^*vidi/*vidi$ ^*vse/*vse$ ^mesto<n><nt><sg><nom>/posto<n><sg><nom>/citta<n><sg><nom>$^.<sent>/.<sent>$
+[/24tB-aVpOSBU]
+[2F6gO9K4tpC0#0] ^Delati<vblex><imperf><past><m><sg>/Lavorare<vblex><past><m><sg>$ ^biti<vbser><pres><p3><sg>/essere<vblex><pres><p3><sg>/essere<vbser><pres><p3><sg>$ ^*ves/*ves$ ^dno<n><nt><du><gen>/fondo<n><du><gen>$^.<sent>/.<sent>$
+[/2F6gO9K4tpC0]
+[2JhRugHmZfdv#0] ^Biti<vbser><fut><p2><sg>/Essere<vblex><fut><p2><sg>/Essere<vbser><fut><p2><sg>$ ^delati<vblex><imperf><past><m><du>/lavorare<vblex><past><m><du>$^.<sent>/.<sent>$
+[/2JhRugHmZfdv]
+[2mMxw6UjXBXV#0] ^*Sergio/*Sergio$ ^biti<vbser><pres><p3><sg>/essere<vblex><pres><p3><sg>/essere<vbser><pres><p3><sg>$ ^*moj/*moj$ ^brat<n><ma><sg><nom>/fratello<n><sg><nom>$^.<sent>/.<sent>$
+[/2mMxw6UjXBXV]
+[4MIeb-86qQig#0] ^Biti<vbser><fut><p2><sg>/Essere<vblex><fut><p2><sg>/Essere<vbser><fut><p2><sg>$ ^delati<vblex><imperf><past><m><sg>/lavorare<vblex><past><m><sg>$^.<sent>/.<sent>$
+[/4MIeb-86qQig]
+[5uiV4NSaxkWw#0] ^Ta<prn><dem><f><sg><acc>/Questo<prn><tn><f><sg><acc>$ ^sonce<n><nt><sg><nom>/sole<n><sg><nom>$^.<sent>/.<sent>$
+[/5uiV4NSaxkWw]
+[7Cg1E7USzz8x#0] ^Biti<vbser><fut><p1><pl>/Essere<vblex><fut><p1><pl>/Essere<vbser><fut><p1><pl>$ ^delati<vblex><imperf><past><m><pl>/lavorare<vblex><past><m><pl>$^.<sent>/.<sent>$
+[/7Cg1E7USzz8x]
+[9wuKwqcGwcIG#0] ^*Vprašimo/*Vprašimo$ ^*koga/*koga$^.<sent>/.<sent>$
+[/9wuKwqcGwcIG]
+[AX2-CqxU7Bqv#0] ^Biti<vbser><fut><p3><sg>/Essere<vblex><fut><p3><sg>/Essere<vbser><fut><p3><sg>$ ^delati<vblex><imperf><past><m><sg>/lavorare<vblex><past><m><sg>$^.<sent>/.<sent>$
+[/AX2-CqxU7Bqv]
+[AwycCIr0PLun#0] ^Lep<adj><sup><m><pl><acc><ind>/Bello<adj><sup><m><pl><acc><ind>$ ^*dekle/*dekle$ ^na<pr>/a<pr>/sopra<pr>$ ^*svetu/*svetu$ ^biti<vbser><pres><p3><sg>/essere<vblex><pres><p3><sg>/essere<vbser><pres><p3><sg>$ ^priti<vblex><perf><past><nt><sg>/venire<vblex><past><nt><sg>/arrivare<vblex><past><nt><sg>/giungere<vblex><past><nt><sg>$ ^v<pr>/nel<pr>$ ^*mojo/*mojo$ ^hiša<n><f><sg><acc>/casa<n><sg><acc>$^.<sent>/.<sent>$
+[/AwycCIr0PLun]
+[C1WNh12YpUnK#0] ^*Bratova/*Bratova$ ^*miza/*miza$^.<sent>/.<sent>$
+[/C1WNh12YpUnK]
+[CAtrYJLLSUmC#0] ^*Zamenjal/*Zamenjal$ ^biti<vbser><pres><p1><sg>/essere<vblex><pres><p1><sg>/essere<vbser><pres><p1><sg>$ ^*ga/*ga$ ^*z/*z$ ^*njegovim/*njegovim$ ^oče<n><ma><sg><ins>/padre<n><sg><ins>$^.<sent>/.<sent>$
+[/CAtrYJLLSUmC]
+[CozMqTe8F57_#0] ^Biti<vbser><fut><p2><pl>/Essere<vblex><fut><p2><pl>/Essere<vbser><fut><p2><pl>$ ^delati<vblex><imperf><past><m><pl>/lavorare<vblex><past><m><pl>$^.<sent>/.<sent>$
+[/CozMqTe8F57_]
+[DBvk1vBmzqab#0] ^Zemlja<n><f><sg><nom>/Terra<n><sg><nom>$^.<sent>/.<sent>$
+[/DBvk1vBmzqab]
+[DwN-N1tZjizL#0] ^*Bramovi/*Bramovi$ ^poljub<n><mi><sg><nom>/bacio<n><sg><nom>$^.<sent>/.<sent>$
+[/DwN-N1tZjizL]
+[E4uq7p_lDarz#0] ^Delati<vblex><imperf><pres><p2><sg>/Lavorare<vblex><pres><p2><sg>$^.<sent>/.<sent>$
+[/E4uq7p_lDarz]
+[FMwWt6qL-moq#0] ^Tudi<part>/Anche<adv>/Anche<cnjsub>$ ^*Agata/*Agata$ ^*se/*se$ ^biti<vbser><pres><p3><sg>/essere<vblex><pres><p3><sg>/essere<vbser><pres><p3><sg>$ ^*močno/*močno$ ^*spremenila/*spremenila$^.<sent>/.<sent>$
+[/FMwWt6qL-moq]
+[Gptqi9ADnMSc#0] ^Biti<vbser><pres><p2><sg>/Essere<vblex><pres><p2><sg>/Essere<vbser><pres><p2><sg>$ ^delati<vblex><imperf><past><m><sg>/lavorare<vblex><past><m><sg>$^.<sent>/.<sent>$
+[/Gptqi9ADnMSc]
+[MzP3LVXkj4LV#0] ^Biti<vbser><pres><p1><sg>/Essere<vblex><pres><p1><sg>/Essere<vbser><pres><p1><sg>$ ^delati<vblex><imperf><past><m><sg>/lavorare<vblex><past><m><sg>$^.<sent>/.<sent>$
+[/MzP3LVXkj4LV]
+[NTwhtbkra86O#0] ^*Gremolata/*Gremolata$ ^v<pr>/nel<pr>$ ^*kristalnem/*kristalnem$ ^*kozarcu/*kozarcu$ ^*z/*z$ ^visok<adj><m><pl><dat><ind>/alto<adj><m><pl><dat><ind>$ ^*pecljem/*pecljem$ ^*se/*se$ ^biti<vbser><pres><p3><sg>/essere<vblex><pres><p3><sg>/essere<vbser><pres><p3><sg>$ ^*že/*že$ ^*stalila/*stalila$^.<sent>/.<sent>$
+[/NTwhtbkra86O]
+[NzO5f-qRWTCM#0] ^Ta<prn><dem><m><sg><nom>/Questo<prn><tn><m><sg><nom>$ ^Stric<n><ma><sg><nom>/Zio<n><sg><nom>$^.<sent>/.<sent>$
+[/NzO5f-qRWTCM]
+[O6x128DFn3Ho#0] ^*Nočete/*Nočete$ ^delati<vblex><imperf><inf>/lavorare<vblex><inf>$^.<sent>/.<sent>$
+[/O6x128DFn3Ho]
+[OE-Svgwu_WE9#0] ^*Nočemo/*Nočemo$ ^delati<vblex><imperf><inf>/lavorare<vblex><inf>$^.<sent>/.<sent>$
+[/OE-Svgwu_WE9]
+[Onn--xQ9KGNx#0] ^*Moj/*Moj$ ^brat<n><ma><sg><nom>/fratello<n><sg><nom>$^.<sent>/.<sent>$
+[/Onn--xQ9KGNx]
+[P6TGz4ftb18t#0] ^*Ko/*Ko$ ^biti<vbser><pres><p1><sg>/essere<vblex><pres><p1><sg>/essere<vbser><pres><p1><sg>$ ^*ga/*ga$ ^*poklical/*poklical$^,<cm>/,<cm>$ ^biti<vbser><pres><p3><sg>/essere<vblex><pres><p3><sg>/essere<vbser><pres><p3><sg>$ ^delati<vblex><imperf><past><m><sg>/lavorare<vblex><past><m><sg>$^.<sent>/.<sent>$
+[/P6TGz4ftb18t]
+[PWYZeSXqnkGm#0] ^*Nočem/*Nočem$ ^delati<vblex><imperf><inf>/lavorare<vblex><inf>$^.<sent>/.<sent>$
+[/PWYZeSXqnkGm]
+[PzIrS6pJdJry#0] ^*Janez/*Janez$ ^biti<vbser><pres><p3><sg>/essere<vblex><pres><p3><sg>/essere<vbser><pres><p3><sg>$ ^*pravkar/*pravkar$ ^priti<vblex><perf><past><m><sg>/venire<vblex><past><m><sg>/arrivare<vblex><past><m><sg>/giungere<vblex><past><m><sg>$^.<sent>/.<sent>$
+[/PzIrS6pJdJry]
+[V3YDqM3dUnv9#0] ^Biti<vbser><pres><p2><sg>/Essere<vblex><pres><p2><sg>/Essere<vbser><pres><p2><sg>$ ^delati<vblex><imperf><past><m><du>/lavorare<vblex><past><m><du>$^.<sent>/.<sent>$
+[/V3YDqM3dUnv9]
+[VoyKxrE_W7AO#0] ^Različen<adj><m><pl><nom><ind>/Diverso<adj><m><pl><nom><ind>$ ^jezik<n><mi><pl><nom>/lingua<n><pl><nom>/lingua<n><f><pl><nom>$^.<sent>/.<sent>$
+[/VoyKxrE_W7AO]
+[ZyZjvZb-HKP1#0] ^Jutri<adv><sint>/Domani<adv><sint>$ ^odpotovati<vblex><perf><pres><p3><pl>/partire<vblex><pres><p3><pl>$ ^v<pr>/nel<pr>$ ^*London/*London$^.<sent>/.<sent>$
+[/ZyZjvZb-HKP1]
+[_XKRtUjeIqe3#0] ^*Moja/*Moja$ ^*sestra/*sestra$^.<sent>/.<sent>$
+[/_XKRtUjeIqe3]
+[a5hKkQ4dEGQK#0] ^*Nočejo/*Nočejo$ ^delati<vblex><imperf><inf>/lavorare<vblex><inf>$^.<sent>/.<sent>$
+[/a5hKkQ4dEGQK]
+[bkoWTHZRbvSo#0] ^*Nočeš/*Nočeš$ ^delati<vblex><imperf><inf>/lavorare<vblex><inf>$^.<sent>/.<sent>$
+[/bkoWTHZRbvSo]
+[bwCP65RWLdcH#0] ^*Marianna/*Marianna$ ^*se/*se$ ^*sunkovito/*sunkovito$ ^*zbudi/*zbudi$ ^*z/*z$ ^občutek<n><mi><sg><ins>/sentimento<n><sg><ins>$ ^*poraženosti/*poraženosti$^.<sent>/.<sent>$
+[/bwCP65RWLdcH]
+[gQnta53sMyWc#0] ^*Ven/*Ven$ ^biti<vbser><pres><p1><pl>/essere<vblex><pres><p1><pl>/essere<vbser><pres><p1><pl>$ ^*šli/*šli$ ^*skoz/*skoz$ ^*stranska/*stranska$ ^*vrata/*vrata$^.<sent>/.<sent>$
+[/gQnta53sMyWc]
+[jWfP-5E1Rww7#0] ^Priti<vblex><perf><past><m><sg>/Venire<vblex><past><m><sg>/Arrivare<vblex><past><m><sg>/Giungere<vblex><past><m><sg>$ ^biti<vbser><pres><p1><sg>/essere<vblex><pres><p1><sg>/essere<vbser><pres><p1><sg>$^,<cm>/,<cm>$ ^dati<vblex><perf><pres><p3><sg>/dare<vblex><pres><p3><sg>$ ^biti<vbser><cni>/essere<vblex><cni>/essere<vbser><cni>$ ^ta<prn><dem><m><pl><nom>/questo<prn><tn><m><pl><nom>$ ^*pomagal/*pomagal$^.<sent>/.<sent>$
+[/jWfP-5E1Rww7]
+[jYhTMwOfZd44#0] ^*Jaz/*Jaz$^.<sent>/.<sent>$
+[/jYhTMwOfZd44]
+[k7rNwKQLVKDi#0] ^Delati<vblex><imperf><pres><p1><pl>/Lavorare<vblex><pres><p1><pl>$^.<sent>/.<sent>$
+[/k7rNwKQLVKDi]
+[kSmK6GMrVr9r#0] ^*Sestrina/*Sestrina$ ^*miza/*miza$ ^biti<vbser><pres><p3><sg>/essere<vblex><pres><p3><sg>/essere<vbser><pres><p3><sg>$ ^rdeč<adj><m><du><nom><ind>/rosso<adj><m><du><nom><ind>$^.<sent>/.<sent>$
+[/kSmK6GMrVr9r]
+[lYwChdQJLEBK#0] ^*Skuhal/*Skuhal$ ^biti<vbser><pres><p3><sg>/essere<vblex><pres><p3><sg>/essere<vbser><pres><p3><sg>$ ^*dobro/*dobro$ ^kosilo<n><nt><sg><nom>/pranzo<n><sg><nom>$^.<sent>/.<sent>$
+[/lYwChdQJLEBK]
+[m139q9FYyfJ9#0] ^Vstopiti<vblex><perf><past><m><sg>/Entrare<vblex><past><m><sg>$ ^biti<vbser><pres><p1><sg>/essere<vblex><pres><p1><sg>/essere<vbser><pres><p1><sg>$ ^v<pr>/nel<pr>$ ^hiša<n><f><sg><acc>/casa<n><sg><acc>$^.<sent>/.<sent>$
+[/m139q9FYyfJ9]
+[mFbUSeRL5fpI#0] ^Biti<vbser><pres><p1><pl>/Essere<vblex><pres><p1><pl>/Essere<vbser><pres><p1><pl>$ ^delati<vblex><imperf><past><m><pl>/lavorare<vblex><past><m><pl>$^.<sent>/.<sent>$
+[/mFbUSeRL5fpI]
+[msldyzdQ3EW2#0] ^*Ko/*Ko$ ^biti<vbser><pres><p1><pl>/essere<vblex><pres><p1><pl>/essere<vbser><pres><p1><pl>$ ^vstopiti<vblex><perf><past><m><pl>/entrare<vblex><past><m><pl>$^,<cm>/,<cm>$ ^biti<vbser><pres><p3><sg>/essere<vblex><pres><p3><sg>/essere<vbser><pres><p3><sg>$ ^*kuhal/*kuhal$ ^kosilo<n><nt><sg><nom>/pranzo<n><sg><nom>$^.<sent>/.<sent>$
+[/msldyzdQ3EW2]
+[sp46BKiqDFef#0] ^Sonce<n><nt><sg><nom>/Sole<n><sg><nom>$^.<sent>/.<sent>$
+[/sp46BKiqDFef]
+[ufhJVL7SwOAU#0] ^Biti<vbser><pres><p3><pl>/Essere<vblex><pres><p3><pl>/Essere<vbser><pres><p3><pl>$ ^delati<vblex><imperf><past><m><pl>/lavorare<vblex><past><m><pl>$^.<sent>/.<sent>$
+[/ufhJVL7SwOAU]
+[wFGWDzOBs-5D#0] ^Delati<vblex><imperf><pres><p3><pl>/Lavorare<vblex><pres><p3><pl>$^.<sent>/.<sent>$
+[/wFGWDzOBs-5D]
+[wcjXR4Bnnhbi#0] ^Učenec<n><ma><pl><acc>/Allievo<n><pl><acc>/Studente<n><pl><acc>$ ^biti<vbser><pres><p1><sg>/essere<vblex><pres><p1><sg>/essere<vbser><pres><p1><sg>$ ^*poklical/*poklical$ ^po<pr>/dopo<pr>$ ^ime<n><nt><sg><dat>/nome<n><nt><sg><dat>$^.<sent>/.<sent>$
+[/wcjXR4Bnnhbi]
+[xCbxd6EVqWlx#0] ^Delati<vblex><imperf><pres><p1><sg>/Lavorare<vblex><pres><p1><sg>$^.<sent>/.<sent>$
+[/xCbxd6EVqWlx]
+[xFYr574ndN-7#0] ^*Vsega/*Vsega$ ^ne<part>/no<adv>$ ^*smemo/*smemo$ ^*videti/*videti$^.<sent>/.<sent>$
+[/xFYr574ndN-7]
+[xjh0Aqa2VEDI#0] ^Barva<n><f><sg><nom>/Colore<n><sg><nom>$ ^*očetovega/*očetovega$ ^*avtomobila/*avtomobila$ ^biti<vbser><pres><p3><sg>/essere<vblex><pres><p3><sg>/essere<vbser><pres><p3><sg>$ ^rdeč<adj><m><du><nom><ind>/rosso<adj><m><du><nom><ind>$^.<sent>/.<sent>$
+[/xjh0Aqa2VEDI]
+[yeO76t-erOJL#0] ^Delati<vblex><imperf><pres><p2><pl>/Lavorare<vblex><pres><p2><pl>$^.<sent>/.<sent>$
+[/yeO76t-erOJL]
+[yxilG5lxehdG#0] ^Stric<n><ma><sg><nom>/Zio<n><sg><nom>$^.<sent>/.<sent>$
+[/yxilG5lxehdG]
+[zIO3LEPaiBUM#0] ^*Prispelo/*Prispelo$ ^biti<vbser><pres><p3><sg>/essere<vblex><pres><p3><sg>/essere<vbser><pres><p3><sg>$ ^pismo<n><nt><sg><nom>/lettera<n><sg><nom>$ ^za<pr>/dietro<pr>$ ^*Giannija/*Giannija$^.<sent>/.<sent>$
+[/zIO3LEPaiBUM]
+[znsl4aRdzZYF#0] ^*Sprevod/*Sprevod$ ^*šel/*šel$ ^po<pr>/dopo<pr>$ ^mesto<n><nt><sg><dat>/posto<n><sg><dat>/citta<n><sg><dat>$^.<sent>/.<sent>$
+[/znsl4aRdzZYF]

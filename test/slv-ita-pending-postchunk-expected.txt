@@ -1,0 +1,110 @@
+[1AT-C8D7K9Dt#0] ^Essere<vblex><fut><p3><pl>$ ^Lavorare<vblex><past><m><pl>$^.<sent>$
+[/1AT-C8D7K9Dt]
+[24tB-aVpOSBU#0] ^Di<pr>$ ^*tukaj$ ^*se$ ^*vidi$ ^*vse$ ^Posto<n><sg><nom>$^.<sent>$
+[/24tB-aVpOSBU]
+[2F6gO9K4tpC0#0] ^Lavorare<vblex><past><m><sg>$ ^Essere<vblex><pres><p3><sg>$ ^*ves$ ^Fondo<n><nom>$^.<sent>$
+[/2F6gO9K4tpC0]
+[2JhRugHmZfdv#0] ^Essere<vblex><fut><p2><sg>$ ^Lavorare<vblex><past><m><du>$^.<sent>$
+[/2JhRugHmZfdv]
+[2mMxw6UjXBXV#0] ^*Sergio$ ^Essere<vblex><pres><p3><sg>$ ^*moj$ ^Fratello<n><sg><nom>$^.<sent>$
+[/2mMxw6UjXBXV]
+[4MIeb-86qQig#0] ^Essere<vblex><fut><p2><sg>$ ^Lavorare<vblex><past><m><sg>$^.<sent>$
+[/4MIeb-86qQig]
+[5uiV4NSaxkWw#0] ^Questo<prn><tn><f><sg><acc>$ ^Sole<n><sg><nom>$^.<sent>$
+[/5uiV4NSaxkWw]
+[7Cg1E7USzz8x#0] ^Essere<vblex><fut><p1><pl>$ ^Lavorare<vblex><past><m><pl>$^.<sent>$
+[/7Cg1E7USzz8x]
+[9wuKwqcGwcIG#0] ^*Vprašimo$ ^*koga$^.<sent>$
+[/9wuKwqcGwcIG]
+[AX2-CqxU7Bqv#0] ^Essere<vblex><fut><p3><sg>$ ^Lavorare<vblex><past><m><sg>$^.<sent>$
+[/AX2-CqxU7Bqv]
+[AwycCIr0PLun#0] ^Bello<adj><sup><m><pl><nom><ind>$ ^*dekle$ ^a<pr>$ ^*svetu$ ^Essere<vblex><pres><p3><sg>$ ^Venire<vblex><past><nt><sg>$ ^nel<pr>$ ^*mojo$ ^Casa<n><sg><nom>$^.<sent>$
+[/AwycCIr0PLun]
+[C1WNh12YpUnK#0] ^*Bratova$ ^*miza$^.<sent>$
+[/C1WNh12YpUnK]
+[CAtrYJLLSUmC#0] ^*Zamenjal$ ^Essere<vblex><pres><p1><sg>$ ^*ga$ ^*z$ ^*njegovim$ ^Padre<n><sg><nom>$^.<sent>$
+[/CAtrYJLLSUmC]
+[CozMqTe8F57_#0] ^Essere<vblex><fut><p2><pl>$ ^Lavorare<vblex><past><m><pl>$^.<sent>$
+[/CozMqTe8F57_]
+[DBvk1vBmzqab#0] ^Terra<n><sg><nom>$^.<sent>$
+[/DBvk1vBmzqab]
+[DwN-N1tZjizL#0] ^*Bramovi$ ^Bacio<n><sg><nom>$^.<sent>$
+[/DwN-N1tZjizL]
+[E4uq7p_lDarz#0] ^Lavorare<vblex><pres><p2><sg>$^.<sent>$
+[/E4uq7p_lDarz]
+[FMwWt6qL-moq#0] ^Anche<adv>$ ^*Agata$ ^*se$ ^Essere<vblex><pres><p3><sg>$ ^*močno$ ^*spremenila$^.<sent>$
+[/FMwWt6qL-moq]
+[Gptqi9ADnMSc#0] ^Essere<vblex><pres><p2><sg>$ ^Lavorare<vblex><past><m><sg>$^.<sent>$
+[/Gptqi9ADnMSc]
+[MzP3LVXkj4LV#0] ^Essere<vblex><pres><p1><sg>$ ^Lavorare<vblex><past><m><sg>$^.<sent>$
+[/MzP3LVXkj4LV]
+[NTwhtbkra86O#0] ^*Gremolata$ ^nel<pr>$ ^*kristalnem$ ^*kozarcu$ ^*z$ ^alto<adj><m><pl><nom><ind>$ ^*pecljem$ ^*se$ ^Essere<vblex><pres><p3><sg>$ ^*že$ ^*stalila$^.<sent>$
+[/NTwhtbkra86O]
+[NzO5f-qRWTCM#0] ^Questo<prn><tn><m><sg><nom>$ ^Zio<n><sg><nom>$^.<sent>$
+[/NzO5f-qRWTCM]
+[O6x128DFn3Ho#0] ^*Nočete$ ^Lavorare<vblex><inf>$^.<sent>$
+[/O6x128DFn3Ho]
+[OE-Svgwu_WE9#0] ^*Nočemo$ ^Lavorare<vblex><inf>$^.<sent>$
+[/OE-Svgwu_WE9]
+[Onn--xQ9KGNx#0] ^*Moj$ ^Fratello<n><sg><nom>$^.<sent>$
+[/Onn--xQ9KGNx]
+[P6TGz4ftb18t#0] ^*Ko$ ^Essere<vblex><pres><p1><sg>$ ^*ga$ ^*poklical$^,<cm>$ ^Essere<vblex><pres><p3><sg>$ ^Lavorare<vblex><past><m><sg>$^.<sent>$
+[/P6TGz4ftb18t]
+[PWYZeSXqnkGm#0] ^*Nočem$ ^Lavorare<vblex><inf>$^.<sent>$
+[/PWYZeSXqnkGm]
+[PzIrS6pJdJry#0] ^*Janez$ ^Essere<vblex><pres><p3><sg>$ ^*pravkar$ ^Venire<vblex><past><m><sg>$^.<sent>$
+[/PzIrS6pJdJry]
+[V3YDqM3dUnv9#0] ^Essere<vblex><pres><p2><sg>$ ^Lavorare<vblex><past><m><du>$^.<sent>$
+[/V3YDqM3dUnv9]
+[VoyKxrE_W7AO#0] ^Diverso<adj><m><pl><nom><ind>$ ^Lingua<n><pl><nom>$^.<sent>$
+[/VoyKxrE_W7AO]
+[ZyZjvZb-HKP1#0] ^Domani<adv><sint>$ ^Partire<vblex><pres><p3><pl>$ ^nel<pr>$ ^*London$^.<sent>$
+[/ZyZjvZb-HKP1]
+[_XKRtUjeIqe3#0] ^*Moja$ ^*sestra$^.<sent>$
+[/_XKRtUjeIqe3]
+[a5hKkQ4dEGQK#0] ^*Nočejo$ ^Lavorare<vblex><inf>$^.<sent>$
+[/a5hKkQ4dEGQK]
+[bkoWTHZRbvSo#0] ^*Nočeš$ ^Lavorare<vblex><inf>$^.<sent>$
+[/bkoWTHZRbvSo]
+[bwCP65RWLdcH#0] ^*Marianna$ ^*se$ ^*sunkovito$ ^*zbudi$ ^*z$ ^Sentimento<n><sg><nom>$ ^*poraženosti$^.<sent>$
+[/bwCP65RWLdcH]
+[gQnta53sMyWc#0] ^*Ven$ ^Essere<vblex><pres><p1><pl>$ ^*šli$ ^*skoz$ ^*stranska$ ^*vrata$^.<sent>$
+[/gQnta53sMyWc]
+[jWfP-5E1Rww7#0] ^Venire<vblex><past><m><sg>$ ^Essere<vblex><pres><p1><sg>$^,<cm>$ ^Dare<vblex><pres><p3><sg>$ ^Essere<vblex><past><m>$ ^biti<vbser><cni>$ ^questo<prn><tn><m><pl><nom>$ ^*pomagal$^.<sent>$
+[/jWfP-5E1Rww7]
+[jYhTMwOfZd44#0] ^*Jaz$^.<sent>$
+[/jYhTMwOfZd44]
+[k7rNwKQLVKDi#0] ^Lavorare<vblex><pres><p1><pl>$^.<sent>$
+[/k7rNwKQLVKDi]
+[kSmK6GMrVr9r#0] ^*Sestrina$ ^*miza$ ^Essere<vblex><pres><p3><sg>$ ^rosso<adj><m><nom><ind>$^.<sent>$
+[/kSmK6GMrVr9r]
+[lYwChdQJLEBK#0] ^*Skuhal$ ^Essere<vblex><pres><p3><sg>$ ^*dobro$ ^Pranzo<n><sg><nom>$^.<sent>$
+[/lYwChdQJLEBK]
+[m139q9FYyfJ9#0] ^Entrare<vblex><past><m><sg>$ ^Essere<vblex><pres><p1><sg>$ ^nel<pr>$ ^Casa<n><sg><nom>$^.<sent>$
+[/m139q9FYyfJ9]
+[mFbUSeRL5fpI#0] ^Essere<vblex><pres><p1><pl>$ ^Lavorare<vblex><past><m><pl>$^.<sent>$
+[/mFbUSeRL5fpI]
+[msldyzdQ3EW2#0] ^*Ko$ ^Essere<vblex><pres><p1><pl>$ ^Entrare<vblex><past><m><pl>$^,<cm>$ ^Essere<vblex><pres><p3><sg>$ ^*kuhal$ ^Pranzo<n><sg><nom>$^.<sent>$
+[/msldyzdQ3EW2]
+[sp46BKiqDFef#0] ^Sole<n><sg><nom>$^.<sent>$
+[/sp46BKiqDFef]
+[ufhJVL7SwOAU#0] ^Essere<vblex><pres><p3><pl>$ ^Lavorare<vblex><past><m><pl>$^.<sent>$
+[/ufhJVL7SwOAU]
+[wFGWDzOBs-5D#0] ^Lavorare<vblex><pres><p3><pl>$^.<sent>$
+[/wFGWDzOBs-5D]
+[wcjXR4Bnnhbi#0] ^Allievo<n><pl><nom>$ ^Essere<vblex><pres><p1><sg>$ ^*poklical$ ^dopo<pr>$ ^Nome<n><nt><sg><nom>$^.<sent>$
+[/wcjXR4Bnnhbi]
+[xCbxd6EVqWlx#0] ^Lavorare<vblex><pres><p1><sg>$^.<sent>$
+[/xCbxd6EVqWlx]
+[xFYr574ndN-7#0] ^*Vsega$ ^no<adv>$ ^*smemo$ ^*videti$^.<sent>$
+[/xFYr574ndN-7]
+[xjh0Aqa2VEDI#0] ^Colore<n><sg><nom>$ ^*očetovega$ ^*avtomobila$ ^Essere<vblex><pres><p3><sg>$ ^rosso<adj><m><nom><ind>$^.<sent>$
+[/xjh0Aqa2VEDI]
+[yeO76t-erOJL#0] ^Lavorare<vblex><pres><p2><pl>$^.<sent>$
+[/yeO76t-erOJL]
+[yxilG5lxehdG#0] ^Zio<n><sg><nom>$^.<sent>$
+[/yxilG5lxehdG]
+[zIO3LEPaiBUM#0] ^*Prispelo$ ^Essere<vblex><pres><p3><sg>$ ^Lettera<n><sg><nom>$ ^dietro<pr>$ ^*Giannija$^.<sent>$
+[/zIO3LEPaiBUM]
+[znsl4aRdzZYF#0] ^*Sprevod$ ^*šel$ ^dopo<pr>$ ^Posto<n><sg><nom>$^.<sent>$
+[/znsl4aRdzZYF]
